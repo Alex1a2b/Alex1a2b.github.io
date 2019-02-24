@@ -46,5 +46,5 @@ input[type = text] {
 }
 body {
   background-image: url("background.png");
-  background-size: 640px 640px;
+  background-size: 64px 64px;
 }
